@@ -1,6 +1,6 @@
 # crttools
 
-A coolection of helper tools to deal with certificates.
+A collection of helper tools to deal with certificates.
 
 ## unpack-ca-file.sh
 
